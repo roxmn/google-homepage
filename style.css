@@ -1,0 +1,48 @@
+.google {
+  text-align: center;
+  display: block;
+  margin-top: 11%;
+  }
+
+.searchbar {
+  text-align: center;
+}
+
+#mic {
+  position: absolute;
+  right: 30%;
+}
+
+.buttons {
+  text-align:center;
+  padding-top: 20px;
+}
+
+.header {
+  text-align: right;
+  font-size: 14px;
+  font-family: Arial;
+  padding-right: 10px;
+  word-spacing: 10px;
+}
+
+#signin {
+  font-family: Arial;
+  background-color: #4444ce;
+  color: white;
+  height: 30px;
+  font-weight: bold;
+}
+
+.footer {
+  word-spacing: 10px;
+  font-size: 14px;
+  font-family: Arial;
+  text-decoration: none;
+  bottom: 5%;
+  position: absolute;
+}
+
+#about {
+  margin-right: 900px;
+}
